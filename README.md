@@ -59,9 +59,9 @@ AWS CDK is an open-source software development framework to define cloud infrast
 
 ## Cleanup
 
-1. **Delete SageMaker Endpoint**:
+1. **Delete SageMaker Endpoint**
 
-2. **Delete S3 Bucket**:
+2. **Delete S3 Bucket**
 
 3. **Delete AWS CDK Stack**:
    - Delete the AWS CDK stack: `cdk destroy`.
